@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         stringList.add("zxy");
         stringList.add("bbb");
         stringList.add("bbbc");
+        stringList.add("ccc");
 
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
 
