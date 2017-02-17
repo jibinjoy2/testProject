@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         stringList.add("jinson");
         stringList.add("jinson");
-        stringList.add("jinson");
+        stringList.add("vishnu");
         stringList.add("jibin");
         stringList.add("jibin");
         stringList.add("jibin");
